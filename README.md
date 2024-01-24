@@ -1,5 +1,5 @@
 # Maze-Game
-# INSTRUCTIONS:
+INSTRUCTIONS:
 
 Search: If you would like to see a tile-by-tile search, press "b" to see breadth-first search, and press "d" to see depth-first search.
 
